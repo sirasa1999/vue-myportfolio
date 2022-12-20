@@ -1,6 +1,8 @@
 <template>
+  <div class="flex items-center">
   <NavigatorPage/>
   <OverviewPage/>
+</div>
 </template>
 
 <script>
