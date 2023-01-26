@@ -1,6 +1,6 @@
 <template>
    <div class="hello">
-    <h1>hello overview page.</h1>
+    <h1> overview page.</h1>
    </div>
    <div class="bg-gray-600 p-2">
     <div class="bg-gray-500 text-white p-1" >

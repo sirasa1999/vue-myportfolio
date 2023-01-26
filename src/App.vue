@@ -7,7 +7,7 @@
 
 <script>
 import NavigatorPage from './components/NavigatorPage.vue'
-import OverviewPage from './components/OverviewPage.vue'
+import OverviewPage from './views/OverviewPage.vue'
 
 export default {
   name: 'App',
